@@ -1,4 +1,4 @@
-''' Simple servo class using the pigpio library
+''' A simple servo class based on the pigpio library
     http://abyz.me.uk/rpi/pigpio/pigs.html#S/SERVO
 '''
 
@@ -8,6 +8,7 @@ from subprocess import check_call
 
 # *** GPIO BCM pin numbering is used ***
 
+# Class for the ordinary servo motor
 class Servo:
     def __init__(self, pin):
         self.pin = pin
@@ -35,11 +36,10 @@ class Servo:
         #proc = check_call(["pigs", "s", "6", "0"])
         proc = check_call(["pigs", "s", str(self.pin), "0"])
 
-# Class for the servo motor, positioned UpSide-Down on the robot chassis
+# Class for the opposite servo motor, positioned UpSide-Down on the robot chassis
 class UDServo:
     def __init__(self, pin):
         self.pin = pin
-
     
     def forward(self, speed):
         if speed >=0 and speed <= 600:
