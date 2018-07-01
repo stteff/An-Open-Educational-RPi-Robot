@@ -1,5 +1,8 @@
-# Regulates servo speed to a specified RPM using Propotional Control
-# program part counting RPMs is based from site: ModMyPi
+# Regulates servo speed to a specified RPM 
+# (SP_rpm variable) using Propotional Control.
+# Used for a two wheels robot, to find out the necessary
+# pulse width for each servo, which produce the target RPM 
+ 
 
 import RPi.GPIO as GPIO
 import time
