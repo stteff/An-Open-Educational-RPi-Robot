@@ -1,4 +1,4 @@
-# An-Open-Educational-RPi-Robot
+# [OpEdRo] An-Open-Educational-(RPi)-Robot
 An Educational Robotic Platform, Raspberry Pi based, using Open Technologies
 
 ---
