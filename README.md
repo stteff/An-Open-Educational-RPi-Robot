@@ -15,6 +15,7 @@ List of main components used:
   * 1 power bank for Raspberry Pi
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
+  
 Raspberry Pi Software used: 
 
   * Operating system
