@@ -1,2 +1,1 @@
-OpEdRo Open-Educational-(RPi)-Robot
-
+README
