@@ -15,9 +15,13 @@ List of main components used:
   * 1 power bank for Raspberry Pi
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
-Raspberry Pi Software installed: 
+Raspberry Pi Software used: 
 
   * Operating system
-    * Rasbian Jessie Lite
+    * Raspbian Jessie Lite (uses lower computer resources)
+  * Python 2.7.x (normally comes with the OS)
+  * Python packages / modules
+    * RPIO (a GPIO module)
+    * pigpio (library which supports hardware timed servo pulses)
   
 
