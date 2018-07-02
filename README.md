@@ -16,12 +16,11 @@ List of main components used:
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
 Raspberry Pi Software used: 
-[I'm an inline-style link](https://www.google.com)
+
   * Operating system
     * Raspbian Jessie Lite (uses lower computer resources)
   * Python 2.7.x (normally comes with the OS)
   * Python packages / modules
-    * [RPIO] (a GPIO module) (https://pythonhosted.org/RPIO/rpio_py.html "RPIO Documentation")
-    * pigpio (library which supports hardware timed servo pulses) (http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Library")
+    * [RPIO](https://pythonhosted.org/RPIO/rpio_py.html "RPIO Documentation") (a GPIO module)
+    * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Library") (library which supports hardware timed servo pulses) 
   
-
