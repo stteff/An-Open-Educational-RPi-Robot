@@ -1,7 +1,7 @@
 # Regulates servo speed to a specified RPM 
 # (SP_rpm variable) using Propotional Control.
 # Used for a two wheels robot, to find out the necessary
-# pulse width for each servo, which produce the target RPM 
+# pulse width for each servo. 
 
 import RPi.GPIO as GPIO
 import time
