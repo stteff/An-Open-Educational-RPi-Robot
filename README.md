@@ -1,2 +1,2 @@
 # OpEdRo Open-Educational-(RPi)-Robot
-An Educational Robotic Platform using Open Technologies and based on Raspberry Pi
+An Educational Robotic Platform, Raspberry Pi based, using Open Technologies
