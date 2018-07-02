@@ -22,6 +22,6 @@ Raspberry Pi Software used:
   * Python 2.7.x (normally comes with the OS)
   * Python packages / modules
     * [RPIO](https://pythonhosted.org/RPIO/rpio_py.html "RPIO Documentation") (a GPIO module)
-    * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (library which supports hardware timed servo pulses)
-    * [espeak](http://espeak.sourceforge.net/ "espeak Documentation")
+    * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
+    * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
