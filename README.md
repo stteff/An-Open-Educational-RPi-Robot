@@ -28,5 +28,5 @@ Raspberry Pi Software used:
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
 The Control computer:
-  * Every computer capable to run Scratch 1.4 (version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
-  * Connected to same LAN as Raspberry Pi
+  * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
+  * Connected to the same LAN as Raspberry Pi
