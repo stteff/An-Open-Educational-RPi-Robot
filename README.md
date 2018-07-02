@@ -18,9 +18,10 @@ List of main components used:
 Raspberry Pi Software used: 
 
   * Operating system
-    * Raspbian Jessie Lite (uses lower computer resources)
+    * Raspbian Jessie Lite (Lite version uses lower computer resources)
   * Python 2.7.x (normally comes with the OS)
   * Python packages / modules
     * [RPIO](https://pythonhosted.org/RPIO/rpio_py.html "RPIO Documentation") (a GPIO module)
-    * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Library") (library which supports hardware timed servo pulses) 
+    * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (library which supports hardware timed servo pulses)
+    * [espeak] (http://espeak.sourceforge.net/ "espeak Documentation")
   
