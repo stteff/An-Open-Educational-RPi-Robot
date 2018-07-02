@@ -22,7 +22,7 @@ Raspberry Pi Software used:
     * Raspbian Jessie Lite (Lite version uses lower computer resources)
   * Python 2.7.x (normally comes with the OS)
   * Python packages / modules
-    * [RPIO](https://pythonhosted.org/RPIO/rpio_py.html "RPIO Documentation") (a GPIO module)
+    * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
     * [scratchpy](https://github.com/pilliq/scratchpy) (a python client for Scratch)
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
