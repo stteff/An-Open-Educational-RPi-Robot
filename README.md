@@ -20,7 +20,7 @@ Raspberry Pi Software used:
 
   * Operating system
     * Raspbian Jessie Lite (Lite version uses lower computer resources)
-  * Python 2.7.x (normally comes with the OS)
+  * Python 2.7.x
   * Python packages / modules
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
