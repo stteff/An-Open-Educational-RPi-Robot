@@ -2,7 +2,6 @@
     http://abyz.me.uk/rpi/pigpio/pigs.html#S/SERVO
 '''
 
-import RPi.GPIO as GPIO
 import time
 from subprocess import check_call
 
@@ -22,7 +21,7 @@ class Servo:
             print ("Valid servo values: [0 - 600] microseconds")
             self.stop()
 #            exit()
-    
+
     def backward(self, speed):
         if speed >=0 and speed <= 600:
             speed = 1500 - speed
@@ -40,7 +39,7 @@ class Servo:
 class UDServo:
     def __init__(self, pin):
         self.pin = pin
-    
+
     def forward(self, speed):
         if speed >=0 and speed <= 600:
             speed = 1500 - speed
