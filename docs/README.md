@@ -1,4 +1,4 @@
-# Raspberry Pi Installation Instrucions
+# Raspberry Pi Installation Instructions
 ```bash
 sudo raspi-config
 ```
