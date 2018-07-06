@@ -1,5 +1,5 @@
 # Raspberry Pi Installation Instructions
-*`Invoke Configuration Utility`
+*`Invoke Configuration Utility`*
 
 ![Alt text](/docs/images/1.png)
 
