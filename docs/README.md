@@ -1,3 +1,3 @@
 # Raspberry Pi Installation Instrucions
-```Shell Session
+```shell
 sudo raspi-config
