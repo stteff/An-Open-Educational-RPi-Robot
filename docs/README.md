@@ -1,4 +1,5 @@
 # Raspberry Pi Installation Instructions
+### After having boot to the RPi
 `Invoke Configuration Utility`
 
 ![Step 1](/docs/images/1.png)
@@ -9,7 +10,7 @@
 
 ![Step 3](/docs/images/3.png)
 
-`Set WiFi SSID and pass phrase`
+`Set WiFi SSID and pass phrase of the network through which you will operate the robot`
 
 ![Step 4](/docs/images/4.png)
 
