@@ -59,3 +59,10 @@ Raspberry Pi Software used:
      8b. Select *Wi-fi:*
      
      ![Step 8b](/docs/images/6.png)
+   9. Test wlan (wireless lan) IP:
+      ```
+      ifconfig
+      ```
+      ![Step 9](/docs/images/7.png
+### Making a Remote Access from the Control Computer to Rapsberry Pi's Command Line
+  1. At 
