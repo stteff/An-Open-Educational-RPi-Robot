@@ -35,7 +35,7 @@ Raspberry Pi Software used:
 ***
 ## Installing and Setting up Raspberry Pi's Operating System
   1. Download [*Raspbian Stretch Lite*](https://www.raspberrypi.org/downloads/raspbian/) image file
-  2. Extract files from the zip
+  2. Unzip the compressed file
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
   5. Log in as pi user
@@ -45,17 +45,17 @@ Raspberry Pi Software used:
   ```
   7. Enable remote command line acccess using ssh:
   
-     7a. Select *Interfacing Options*
+     7a. Select *Interfacing Options:*
      ![Step 7a](/docs/images/2.png)
      
-     7b. Select *SSH*
+     7b. Select *SSH:*
      ![Step 7b](/docs/images/3.png)
 
-  8. Set WiFi SSID and pass phrase of the network through which you will operate the robot
+  8. Set WiFi SSID and pass phrase of the network through which you will operate the robot:
   
-     8a. Select *Network Options*
+     8a. Select *Network Options:*
      ![Step 8a](/docs/images/4.png)
      
-     8b. Select *Wi-fi*
+     8b. Select *Wi-fi:*
      
      ![Step 8b](/docs/images/6.png)
