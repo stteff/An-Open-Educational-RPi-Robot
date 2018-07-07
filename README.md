@@ -32,6 +32,10 @@ Raspberry Pi Software used:
   * Connected to the same LAN as Raspberry Pi
 
 ***
+***
+## Setting up Raspberry Pi's Operating System
+  1. Download * Raspbian Stretch Lite *(https://www.raspberrypi.org/downloads/raspbian/)
+
 ## Raspberry Pi First Steps Configuration
 ### After having boot to the RPi for the first time:
   1. `Invoke Configuration Utility`
