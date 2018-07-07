@@ -34,17 +34,17 @@ Raspberry Pi Software used:
 ***
 ## Raspberry Pi First Steps Configuration
 ### After having boot to the RPi for the first time:
-  1 `Invoke Configuration Utility`
+  1. `Invoke Configuration Utility`
 
 ![Step 1](/docs/images/1.png)
 
-  2 `Enable remote command line acccess using ssh`
+  2. `Enable remote command line acccess using ssh`
 
 ![Step 2](/docs/images/2.png)
 
 ![Step 3](/docs/images/3.png)
 
-  3 `Set WiFi SSID and pass phrase of the network through which you will operate the robot`
+  3. `Set WiFi SSID and pass phrase of the network through which you will operate the robot`
 
 ![Step 4](/docs/images/4.png)
 
