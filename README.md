@@ -45,7 +45,7 @@ Raspberry Pi Software used:
   ```
   7. Enable remote command line acccess using ssh:
   
-     ... Select *Interfacing Options*
+     Select *Interfacing Options*
 
 ![Step 7a](/docs/images/2.png)
 
