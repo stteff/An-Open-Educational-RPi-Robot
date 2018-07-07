@@ -47,6 +47,7 @@ Raspberry Pi Software used:
     * Select *Interfacing Options*
 
 ![Step 7a](/docs/images/2.png)
+
     * Select *SSH*
 
 ![Step 7b](/docs/images/3.png)
