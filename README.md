@@ -63,6 +63,6 @@ Raspberry Pi Software used:
       ```
       ifconfig
       ```
-      ![Step 9](/docs/images/7.png
+      ![Step 9](/docs/images/7.png)
 ### Making a Remote Access from the Control Computer to Rapsberry Pi's Command Line
   1. At 
