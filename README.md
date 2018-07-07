@@ -39,27 +39,18 @@ Raspberry Pi Software used:
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
   5. Log in as pi user
-  6. At the command line interface, invoke the configuration utility raspi-config
+  6. At the command line interface, invoke the configuration utility raspi-config:
   ```
   sudo raspi-config
   ```
-  
+  7. Enable remote command line acccess using ssh:
 
-## Raspberry Pi First Steps Configuration
-### After having boot to the RPi for the first time:
-  1. `Invoke Configuration Utility`
+![Step 7a](/docs/images/2.png)
 
-![Step 1](/docs/images/1.png)
+![Step 7b](/docs/images/3.png)
 
-  2. `Enable remote command line acccess using ssh`
+  8. Set WiFi SSID and pass phrase of the network through which you will operate the robot
 
-![Step 2](/docs/images/2.png)
+![Step 8a](/docs/images/4.png)
 
-![Step 3](/docs/images/3.png)
-
-  3. `Set WiFi SSID and pass phrase of the network through which you will operate the robot`
-
-![Step 4](/docs/images/4.png)
-
-
-![Step 6](/docs/images/6.png)
+![Step 8b](/docs/images/6.png)
