@@ -34,7 +34,7 @@ Raspberry Pi Software used:
 ***
 ***
 ## Setting up Raspberry Pi's Operating System
-  1. Download * Raspbian Stretch Lite *(https://www.raspberrypi.org/downloads/raspbian/)
+  1. Download *Raspbian Stretch Lite*(https://www.raspberrypi.org/downloads/raspbian/)
 
 ## Raspberry Pi First Steps Configuration
 ### After having boot to the RPi for the first time:
