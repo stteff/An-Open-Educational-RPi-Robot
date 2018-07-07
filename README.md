@@ -64,6 +64,6 @@ Raspberry Pi Software used:
       ifconfig
       ```
       At the *wlan0:* part of the command output, should appear the new IP
-      ![Step 9](/docs/images/7.png)
+      ![Step 9](/docs/images/7a.png)
 ### Remote Access Rapsberry Pi's Command Line, from the Control Computer
 
