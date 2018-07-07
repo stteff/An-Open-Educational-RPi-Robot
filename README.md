@@ -58,7 +58,3 @@ Raspberry Pi Software used:
      
      8b. Select *Wi-fi*
      ![Step 8b](/docs/images/6.png)
-
-
-
-
