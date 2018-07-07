@@ -39,7 +39,7 @@ Raspberry Pi Software used:
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
   5. Log in as pi user
-  6. At the command line interface, invoke the configuration utility raspi-config:
+  6. At the command line interface, invoke the configuration utility raspi-config by typing:
   ```
   sudo raspi-config
   ```
@@ -59,10 +59,11 @@ Raspberry Pi Software used:
      8b. Select *Wi-fi:*
      
      ![Step 8b](/docs/images/6.png)
-   9. Test wlan (wireless lan) IP:
+   9. Test wlan (wireless lan) IP. Exit raspi-config and type:
       ```
       ifconfig
       ```
+      At the *wlan0:* part of the command output, should appear the new IP
       ![Step 9](/docs/images/7.png)
-### Making a Remote Access from the Control Computer to Rapsberry Pi's Command Line
-  1. At 
+### Remote Access Rapsberry Pi's Command Line, from the Control Computer
+
