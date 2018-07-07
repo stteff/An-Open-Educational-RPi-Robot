@@ -51,7 +51,7 @@ Raspberry Pi Software used:
      7b. Select *SSH:*
      ![Step 7b](/docs/images/3.png)
 
-  8. Set WiFi SSID and pass phrase of the network through which you will operate the robot:
+  8. Set WiFi SSID and pass phrase of the network where robot will be connected:
   
      8a. Select *Network Options:*
      ![Step 8a](/docs/images/4.png)
