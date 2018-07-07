@@ -33,8 +33,10 @@ Raspberry Pi Software used:
 
 ***
 ***
-## Setting up Raspberry Pi's Operating System
-  1. Download [*Raspbian Stretch Lite*](https://www.raspberrypi.org/downloads/raspbian/)
+## Installing and Setting up Raspberry Pi's Operating System
+  1. Download [*Raspbian Stretch Lite*](https://www.raspberrypi.org/downloads/raspbian/) image file
+  2. Extract files from the zip file
+  3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
 
 ## Raspberry Pi First Steps Configuration
 ### After having boot to the RPi for the first time:
