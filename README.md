@@ -48,7 +48,7 @@ Raspberry Pi Software used:
 
 ![Step 7a](/docs/images/2.png)
 
-   * Select *SSH*
+  * Select *SSH*
 
 ![Step 7b](/docs/images/3.png)
 
