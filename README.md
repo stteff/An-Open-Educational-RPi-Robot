@@ -39,11 +39,11 @@ Raspberry Pi Software used:
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
   5. Log in as *pi* user
-  6. At the command line interface, invoke the configuration utility *raspi-config* by typing:
+  6. Invoke the configuration utility *raspi-config*, by typing at the command line interface:
   ```
   sudo raspi-config
   ```
-  7. In order to allow remote access to the robot, enable remote command line using ssh:
+  7. Enable remote command line using ssh, in order to allow remote access to the robot:
   
      7a. Select *Interfacing Options:*
      ![Step 7a](/docs/images/2.png)
@@ -69,7 +69,7 @@ Raspberry Pi Software used:
   
       i. a valid static IP address (at the example below, *192.168.2.200*)
       
-      ii. the router's and domain_name_servers' IP addresses (same for both, at the example below *192.168.2.1*)
+      ii. the router's and domain_name_servers' IP addresses (same IP for both, at the example below *192.168.2.1*)
       
       At the command line type:
       ```
