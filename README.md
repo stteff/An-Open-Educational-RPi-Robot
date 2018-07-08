@@ -65,11 +65,13 @@ Raspberry Pi Software used:
       ```
       At the *wlan0:* part of the command output, the new IP should appear
       ![Step 9](/docs/images/7.png)
-  10. [Optional] Set a Static IP for the Raspberry Pi. You will need:
+  10. [Optional] Set a Static IP for the Raspberry Pi
   
-      i. a valid static IP address (at the example below, *192.168.2.200*)
+      You will need:
+  
+        i. a valid static IP address (at the example below, *192.168.2.200*)
       
-      ii. the router's and domain_name_servers' IP addresses (same IP for both, at the example below *192.168.2.1*)
+        ii. the router's and domain_name_servers' IP addresses (same IP for both, at the example below *192.168.2.1*)
       
       At the command line type:
       ```
