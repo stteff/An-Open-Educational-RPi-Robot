@@ -68,21 +68,24 @@ Raspberry Pi Software used:
   10. [Optional] Set a Static IP for the Raspberry Pi. You will need:
   
       i. a valid static IP address (at the example below, *192.168.2.200*)
+      
       ii. the router's and domain_name_servers' IP addresses (at the example below same for both, *192.168.2.1*)
+      
       At the command line type:
       ```
       sudo nano /etc/dhcpcd.conf
       ```
-      Go to the end of the file and type:
+      Go to the end of the file and type (adjust accordingly to your IPs:
       ```
       interface wlan0
       static ip_address=192.168.2.200/24
       static routers=192.168.2.1
       static domain_name_servers=192.168.2.1
       ```
-      Save changes and exit nano by typing
+      Save changes, exit nano and reboot by typing
       `ctlr+o` + [enter] to confirm write to the file
       `ctrl+x` to exit the nano editor
+      `sudo reboot` reboot for changes to take effect
   
 ### Remote Access Rapsberry Pi's Command Line, from the Control Computer
 
