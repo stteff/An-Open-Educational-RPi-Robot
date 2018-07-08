@@ -34,12 +34,12 @@ Raspberry Pi Software used:
 ***
 ***
 ## Installing and Setting up Raspberry Pi's Operating System
-  1. Download [*Raspbian Stretch Lite*](https://www.raspberrypi.org/downloads/raspbian/) image file
+  1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. Unzip the compressed file
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
-  5. Log in as pi user
-  6. At the command line interface, invoke the configuration utility raspi-config by typing:
+  5. Log in as *pi* user
+  6. At the command line interface, invoke the configuration utility *raspi-config* by typing:
   ```
   sudo raspi-config
   ```
@@ -51,7 +51,7 @@ Raspberry Pi Software used:
      7b. Select *SSH:*
      ![Step 7b](/docs/images/3.png)
 
-  8. Set WiFi SSID and pass phrase of the network where robot will be connected:
+  8. Set WiFi SSID and pass of the network where robot will be connected:
   
      8a. Select *Network Options:*
      ![Step 8a](/docs/images/4.png)
@@ -59,11 +59,11 @@ Raspberry Pi Software used:
      8b. Select *Wi-fi:*
      
      ![Step 8b](/docs/images/6.png)
-   9. Test wlan (wireless lan) IP. Exit raspi-config and type:
+   9. Check the wlan (wireless lan) IP assigned. Exit raspi-config and type:
       ```
       ifconfig
       ```
-      At the *wlan0:* part of the command output, should appear the new IP
+      At the *wlan0:* part of the command output, the new IP should appear
       ![Step 9](/docs/images/7.png)
 ### Remote Access Rapsberry Pi's Command Line, from the Control Computer
 
