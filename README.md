@@ -59,7 +59,8 @@ Raspberry Pi Software used:
      8b. Select *Wi-fi:*
      
      ![Step 8b](/docs/images/6.png)
-   9. Check the wlan (wireless lan) IP assigned. Exit raspi-config and type:
+   9. Check the wlan (wireless lan) IP assigned.
+     Exit raspi-config and type:
       ```
       ifconfig
       ```
