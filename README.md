@@ -69,9 +69,9 @@ Raspberry Pi Software used:
   
       You will need:
   
-        i. a valid static IP address (at the example below, *192.168.2.200*)
+          i. a valid static IP address (at the example below, *192.168.2.200*)
       
-        ii. the router's and domain_name_servers' IP addresses (same IP for both, at the example below *192.168.2.1*)
+          ii. the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
       
       At the command line type:
       ```
