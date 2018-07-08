@@ -105,12 +105,6 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
 ***
 ## Installing Necessary Python Libraries
   1. Update and upgrade installed packages:
-  
-      At the command line type:
-      ```
-      sudo nano /etc/dhcpcd.conf
-      ```  
-  
   ```
   sudo apt-get update
   sudo apt-get upgrade
