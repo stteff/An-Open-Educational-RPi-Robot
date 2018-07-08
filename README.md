@@ -100,3 +100,21 @@ Raspberry Pi Software used:
 Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
   * If you are on a Unix environment, open a terminal window and type: `ssh pi@192.168.2.200`
+  
+***
+***
+## Installing Necessary Python Libraries
+  1. Update and upgrade installed packages:
+  ```
+  sudo apt-get update
+  sudo apt-get upgrade
+  ```
+  2. Install the pigpio library:
+  ```
+  wget abyz.co.uk/rpi/pigpio/pigpio.zip
+  unzip pigpio.zip
+  cd PIGPIO
+  make
+  make install
+  ```
+  
