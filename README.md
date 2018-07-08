@@ -105,10 +105,10 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
 ***
 ## Installing Necessary Python Libraries
   1. Update and upgrade installed packages:
-    ```
-    sudo apt-get update
-    sudo apt-get upgrade
-    ```
+   ```
+   sudo apt-get update
+   sudo apt-get upgrade
+   ```
   2. Install the pigpio library:
   ```
   wget abyz.co.uk/rpi/pigpio/pigpio.zip
