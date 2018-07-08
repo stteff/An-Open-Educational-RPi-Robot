@@ -51,7 +51,7 @@ Raspberry Pi Software used:
      7b. Select *SSH:*
      ![Step 7b](/docs/images/3.png)
 
-  8. Set WiFi SSID and pass of the network where robot will be connected:
+  8. Set WiFi SSID and pass phrase of the network where robot will be connected:
   
      8a. Select *Network Options:*
      ![Step 8a](/docs/images/4.png)
@@ -65,5 +65,23 @@ Raspberry Pi Software used:
       ```
       At the *wlan0:* part of the command output, the new IP should appear
       ![Step 9](/docs/images/7.png)
+  10. [Optional] Set a Static IP for the Raspberry Pi. You will need:
+      i. a valid static IP address (at the example below, *192.168.2.200*)
+      ii. the router's and domain_name_servers' IP addresses (at the example below same for both, *192.168.2.1*)
+      At the command line type:
+      ```
+      sudo nano /etc/dhcpcd.conf
+      ```
+      Go to the end of the file and type:
+      ```
+      interface wlan0
+      static ip_address=192.168.2.200/24
+      static routers=192.168.2.1
+      static domain_name_servers=192.168.2.1
+      ```
+      Save changes and exit nano by typing
+      `ctlr+o` + [enter] to confirm write to the file
+      `ctrl+x` to exit the nano editor
+  
 ### Remote Access Rapsberry Pi's Command Line, from the Control Computer
 
