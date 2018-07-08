@@ -96,5 +96,6 @@ Raspberry Pi Software used:
 Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2.200~ for demonstration purposes), one can could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an `ssh terminal client` program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
   * If you are on a Unix environment, open a terminal window and type:
-  `ssh pi@ ~192.168.2.200~ `
-
+  ```
+  ssh pi@~192.168.2.200~
+  ```
