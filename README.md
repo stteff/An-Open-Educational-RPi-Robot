@@ -3,6 +3,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 
 ***
 *`This project is in active development. Additions will be taking place on a regular basis`*
+
 ***
 ### `OpEdRo:-----`
 #### List of main components:
@@ -23,7 +24,7 @@ Raspberry Pi Software:
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
   * Python 2.7.x
-  * Python packages / modules
+  * Python packages / modules:
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
     * [scratchpy](https://github.com/pilliq/scratchpy) (a python client for Scratch)
@@ -114,11 +115,11 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   sudo apt-get upgrade
   ```
   2. Install scratchpy
-     Firstly obtain the python package manager, * pip *
+     Firstly obtain the python package manager, *pip*
      ```
      sudo apt-get install python-pip
      ```
-     Then continue with the scratchpy
+     Then continue with the scratchpy:
      ```
      pip install scratchpy
      ```
@@ -130,7 +131,7 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   make
   make install
   ```
-  4. Install the epeak package
+  4. Install the epeak package:
   ```
   sudo apt-get install python-espeak
   ```
