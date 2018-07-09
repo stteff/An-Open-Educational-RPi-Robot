@@ -3,6 +3,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 
 ***
 *`This project is in active development. Additions will be taking place on a regular basis`*
+***
 
 ### `OpEdRo:-----`
 #### List of main components:
@@ -114,14 +115,14 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   sudo apt-get upgrade
   ```
   2. Install scratchpy
-     Firstly obtain the python package manager, *pip*
-     ```
-     sudo apt-get install python-pip
-     ```
-     Then continue with the scratchpy:
-     ```
-     pip install scratchpy
-     ```
+    Firstly obtain the python package manager, *pip*
+    ```
+    sudo apt-get install python-pip
+    ```
+    Then continue with the scratchpy:
+    ```
+    pip install scratchpy
+    ```
   3. Install the pigpio library:
   ```
   wget abyz.co.uk/rpi/pigpio/pigpio.zip
