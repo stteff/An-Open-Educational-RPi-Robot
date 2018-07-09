@@ -134,7 +134,7 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   make
   make install
   ```
-  4. Install the epeak package:
+  4. Install the espeak package:
   ```
   sudo apt-get install python-espeak
   ```
