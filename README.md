@@ -21,7 +21,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 #### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-Raspberry Pi Software: 
+#### Raspberry Pi Software: 
 
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
