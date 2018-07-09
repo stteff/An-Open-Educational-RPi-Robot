@@ -111,7 +111,12 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   sudo apt-get update
   sudo apt-get upgrade
   ```
-  2. Install the pigpio library:
+  2. Install scratchpy
+     Firstly obtain the python package manager pip
+     ```
+     sudo apt-get install python-pip
+     ``
+  3. Install the pigpio library:
   ```
   wget abyz.co.uk/rpi/pigpio/pigpio.zip
   unzip pigpio.zip
