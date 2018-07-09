@@ -15,7 +15,7 @@ List of main components:
   * 1 power bank for Raspberry Pi
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
-  Circuit Diagram
+#### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
 Raspberry Pi Software used: 
