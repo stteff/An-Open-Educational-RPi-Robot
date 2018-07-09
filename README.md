@@ -102,6 +102,7 @@ Raspberry Pi Software:
 Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
   * If you are on a Unix environment, open a terminal window and type:
+  
     `ssh pi@192.168.2.200`
   
 ***
@@ -113,7 +114,7 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   sudo apt-get upgrade
   ```
   2. Install scratchpy
-     Firstly obtain the python package manager, *pip*
+     Firstly obtain the python package manager, * pip *
      ```
      sudo apt-get install python-pip
      ```
@@ -128,5 +129,9 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   cd PIGPIO
   make
   make install
+  ```
+  4. Install the epeak package
+  ```
+  sudo apt-get install python-espeak
   ```
   
