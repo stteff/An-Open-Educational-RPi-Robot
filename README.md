@@ -5,7 +5,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 *`This project is in active development. Additions will be taking place on a regular basis`*
 ***
 ### `OpEdRo:-----`
-List of main components:
+#### List of main components:
   * A robot chassis appropriate to host the rest of the parts
   * A Rapsberry Pi 3 model B
   * 2 micro servo motors fitable to robot chassis
@@ -18,10 +18,10 @@ List of main components:
 #### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-Raspberry Pi Software used: 
+Raspberry Pi Software: 
 
   * Operating system
-    * Raspbian Jessie Lite (Lite version uses lower computer resources)
+    * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
   * Python 2.7.x
   * Python packages / modules
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
@@ -42,9 +42,9 @@ Raspberry Pi Software used:
   4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
   5. Log in as *pi* user
   6. Invoke the configuration utility *raspi-config*, by typing at the command line interface:
-  ```
-  sudo raspi-config
-  ```
+     ```
+     sudo raspi-config
+     ```
   7. Enable remote command line using ssh, in order to allow remote access to the robot:
   
      7a. Select *Interfacing Options:*
@@ -101,7 +101,8 @@ Raspberry Pi Software used:
 ## Remote Access Rapsberry Pi's Command Line Interface (CLI)
 Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
-  * If you are on a Unix environment, open a terminal window and type: `ssh pi@192.168.2.200`
+  * If you are on a Unix environment, open a terminal window and type:
+    `ssh pi@192.168.2.200`
   
 ***
 ***
