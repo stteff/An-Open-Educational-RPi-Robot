@@ -4,7 +4,6 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 ***
 *`This project is in active development. Additions will be taking place on a regular basis`*
 
-***
 ### `OpEdRo:-----`
 #### List of main components:
   * A robot chassis appropriate to host the rest of the parts
