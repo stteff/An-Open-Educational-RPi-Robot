@@ -11,7 +11,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 #### List of main components:
   * A robot chassis appropriate to host the rest of the parts
   * A Rapsberry Pi 3 model B
-  * 2 micro servo motors fitable to robot chassis
+  * 2 continuous rotation micro servo motors, fitable to robot chassis
   * 2 photoelectric sensors
   * 2 encoder disks
   * 1 battery holder for 4xAA to power the servos
