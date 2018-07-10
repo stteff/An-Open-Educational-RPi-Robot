@@ -38,7 +38,9 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
 
 
 ---
+
 ## Installing and Setting up Raspberry Pi's Operating System
+
 ---
   1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. Unzip the compressed file
