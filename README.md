@@ -36,9 +36,10 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
 
----
+
 ---
 ## Installing and Setting up Raspberry Pi's Operating System
+---
   1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. Unzip the compressed file
   3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
