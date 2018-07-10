@@ -132,7 +132,7 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
   unzip pigpio.zip
   cd PIGPIO
   make
-  make install
+  sudo make install
   ```
   4. Install the espeak package:
   ```
