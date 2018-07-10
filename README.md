@@ -36,11 +36,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
 
-
 ---
-
 ## Installing and Setting up Raspberry Pi's Operating System
-
 ---
   1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. Unzip the compressed file
@@ -103,8 +100,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, re
       `sudo reboot` reboot for changes to take effect
   
 ---
----
 ## Remote Access Rapsberry Pi's Command Line Interface (CLI)
+---
 Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
   * If you are on a Unix environment, open a terminal window and type:
@@ -112,8 +109,8 @@ Since the IP addresss of the Raspberry Pi is known (let's assume it's ~192.168.2
     `ssh pi@192.168.2.200`
   
 ---
----
 ## Installing Necessary Python Libraries
+---
   1. Update and upgrade installed packages:
   ```
   sudo apt-get update
