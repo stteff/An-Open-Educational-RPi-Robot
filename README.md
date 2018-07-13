@@ -1,5 +1,5 @@
 - [[OpEdRo] An-Open-Educational-(RPi)-Robot](#-opedro--an-open-educational--rpi--robot)
-    + [`OpEdRo:-----`](#-opedro-------)
+    + [`OpEdRo:-----`](#-OpEdRo-------)
       - [List of main components:](#list-of-main-components-)
       - [Circuit Diagram](#circuit-diagram)
       - [Raspberry Pi Software:](#raspberry-pi-software-)
