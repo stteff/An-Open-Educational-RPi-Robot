@@ -1,14 +1,3 @@
-- [[OpEdRo] An-Open-Educational-(RPi)-Robot](#-opedro--an-open-educational--rpi--robot)
-    + [`OpEdRo:-----`](#-OpEdRo-------)
-      - [List of main components:](#list-of-main-components-)
-      - [Circuit Diagram](#circuit-diagram)
-      - [Raspberry Pi Software:](#raspberry-pi-software-)
-    + [`The Control computer:-----`](#-the-control-computer-------)
-
-
-
-
-
 # [OpEdRo] An-Open-Educational-(RPi)-Robot
 An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, remote controled from Scratch
 
