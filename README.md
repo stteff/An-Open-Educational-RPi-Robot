@@ -2,7 +2,7 @@
 
 * [OpEdRo](#opedro-----)
   * [List of main components](#list-of-main-components)
-  * [Circuit Diagrma](#circuit-diagram)
+  * [Circuit Diagram](#circuit-diagram)
   * [Raspberry Pi Software](#raspberry-pi-software)
 * [The Control computer](#the-control-computer-----)
 * [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
