@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [[OpEdRo] An-Open-Educational-(RPi)-Robot](#opedro-an-open-educational-rpi-robot)
 * [OpEdRo](#opedro-----)
   * [List of main components](#list-of-main-components)
   * [Circuit Diagram](#circuit-diagram)
