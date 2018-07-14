@@ -13,7 +13,7 @@
 ---
 
 # [OpEdRo] An-Open-Educational-(RPi)-Robot
-An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, remote controled from Scratch
+An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Remote programmable from Scratch to move specific distances, to turn angles of specific degrees, to speak text and variable values.
 
 ---
 
