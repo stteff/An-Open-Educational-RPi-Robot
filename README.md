@@ -1,3 +1,17 @@
+# Table of Contents
+
+* [OpEdRo](#opedro-----)
+  * [List of main components](#list-of-main-components)
+  * [Circuit Diagrma](#circuit-diagram)
+  * [Raspberry Pi Software](#raspberry-pi-software)
+* [The Control computer](#the-control-computer-----)
+* [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
+* [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
+* [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
+
+
+
+
 # [OpEdRo] An-Open-Educational-(RPi)-Robot
 An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, remote controled from Scratch
 
