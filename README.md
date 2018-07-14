@@ -10,8 +10,7 @@
 * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
 * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
 
-
-
+---
 
 # [OpEdRo] An-Open-Educational-(RPi)-Robot
 An Educational Robotic Platform, Raspberry Pi based, using Open Technologies, remote controled from Scratch
