@@ -108,10 +108,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       Save changes, exit nano and reboot by typing:
       
       <p><kbd>Ctrl</kbd> + <kbd>O</kbd> to confirm write to the file</p>
-      
-      `ctlr+o + [enter]` to confirm write to the file
-      
-      `ctrl+x` to exit the nano editor
+      <p><kbd>Ctrl</kbd> + <kbd>X</kbd> to exit the nano editor</p>
       
       `sudo reboot` reboot for changes to take effect
   
