@@ -23,12 +23,17 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 
 ### `OpEdRo:-----`
 #### List of main components:
-  * A robot chassis appropriate to host the following parts
+
+<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png"  width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png"  width="96">
+
+
+
+  * A robot chassis appropriate to host the following parts<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png" width="96">
   * A Rapsberry Pi 3 model B
-  * 2 continuous rotation micro servo motors, fitable to robot chassis
-  * 2 photoelectric sensors
-  * 2 encoder disks
-  * 1 battery holder for 4xAA to power the servos
+  * 2 continuous rotation micro servo motors, fitable to robot chassis<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png" width="96">
+  * 2 photoelectric sensors<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Photoelectric_sensor.png" width="96">
+  * 2 encoder disks<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Encoder_disk.png" width="96">
+  * 1 battery holder for 4xAA to power the servos<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Battery_holder.png" width="96">
   * 1 power bank for Raspberry Pi
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
