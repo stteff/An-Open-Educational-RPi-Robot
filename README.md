@@ -68,7 +68,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   
      > 7a. Select *Interfacing Options:*
      > ![Step 7a](/docs/images/2.png)
-     >
+     
      > 7b. Select *SSH:*
      > ![Step 7b](/docs/images/3.png)
 
@@ -76,11 +76,11 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   
      > 8a. Select *Network Options:*
      > ![Step 8a](/docs/images/4.png)
-     >
+     
      > 8b. Select *Wi-fi:*
      > ![Step 8b](/docs/images/6.png)
   9. > Check the wlan (wireless lan) IP assigned.
-     >
+     
      > Exit raspi-config and type:
      > ```
      > ifconfig
