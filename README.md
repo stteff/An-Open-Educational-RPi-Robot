@@ -4,7 +4,7 @@
 * [OpEdRo](#opedro-----)
   * [Main components](#main-components)
   * [Circuit Diagram](#circuit-diagram)
-  * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-requirements)
+  * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-prerequisites)
     * [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
   * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
   * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
@@ -53,7 +53,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
 ---
-## Installing and Setting up Raspberry Pi's Operating System
+#### Installing and Setting up Raspberry Pi's Operating System
 ---
   1. > Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. > Unzip the compressed file
@@ -113,7 +113,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > `sudo reboot` for changes to take effect 
       
 ---
-## Remote Access Rapsberry Pi's Command Line Interface (CLI)
+### Remote Access Rapsberry Pi's Command Line Interface (CLI)
 ---
 Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
@@ -122,7 +122,7 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
     `ssh pi@192.168.2.200`
   
 ---
-## Installing Necessary Python Libraries
+### Installing Necessary Python Libraries
 ---
   1. Update and upgrade installed packages:
   ```
