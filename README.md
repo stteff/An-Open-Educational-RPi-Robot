@@ -74,44 +74,44 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 
   8. > Set WiFi SSID and pass phrase of the network where robot will be connected:
   
-     8a. > Select *Network Options:*
+     > 8a. Select *Network Options:*
      > ![Step 8a](/docs/images/4.png)
      
-     8b. > Select *Wi-fi:*
+     > 8b. Select *Wi-fi:*
      > ![Step 8b](/docs/images/6.png)
-   9. Check the wlan (wireless lan) IP assigned.
+  9. > Check the wlan (wireless lan) IP assigned.
    
-      Exit raspi-config and type:
-      ```
-      ifconfig
-      ```
-      At the *wlan0:* part of the command output, the new IP should appear
-      ![Step 9](/docs/images/7.png)
-  10. Set a Static IP for the Raspberry Pi [Optional] 
+     > Exit raspi-config and type:
+     > ```
+     > ifconfig
+     > ```
+     > At the *wlan0:* part of the command output, the new IP should appear
+     > ![Step 9](/docs/images/7.png)
+  10. > Set a Static IP for the Raspberry Pi [Optional] 
   
-      You will need:
+      > You will need:
   
-      - a valid static IP address (at the example below, *192.168.2.200*)
+      > - a valid static IP address (at the example below, *192.168.2.200*)
       
-      - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
+      > - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
       
-      At the command line type:
-      ```
-      sudo nano /etc/dhcpcd.conf
-      ```
-      Go to the end of the file and type (adjust accordingly to your IPs):
-      ```
-      interface wlan0
-      static ip_address=192.168.2.200/24
-      static routers=192.168.2.1
-      static domain_name_servers=192.168.2.1
-      ```
-      Save changes, exit nano and reboot by typing:
+      > At the command line type:
+      > ```
+      > sudo nano /etc/dhcpcd.conf
+      > ```
+      > Go to the end of the file and type (adjust accordingly to your IPs):
+      > ```
+      > interface wlan0
+      > static ip_address=192.168.2.200/24
+      > static routers=192.168.2.1
+      > static domain_name_servers=192.168.2.1
+      > ```
+      > Save changes, exit nano and reboot by typing:
       
-      <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
-      <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
+      > <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
+      > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
       
-      `sudo reboot` reboot for changes to take effect
+      > `sudo reboot` reboot for changes to take effect
   
 ---
 ## Remote Access Rapsberry Pi's Command Line Interface (CLI)
