@@ -125,21 +125,24 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
 ### Installing Necessary Python Libraries
 ---
   1. > Update and upgrade installed packages:
+  
      > ```
      > sudo apt-get update
      > sudo apt-get upgrade
      > ```
-  2. > Install scratchpy
+  2. > Install scratchpy:
   
      > Firstly obtain the python package manager, *pip*
      > ```
      > sudo apt-get install python-pip
      > ```
+     
      > Then continue with the scratchpy:
      > ```
      > pip install scratchpy
      > ```
   3. > Install the pigpio library:
+  
      > ```
      > wget abyz.co.uk/rpi/pigpio/pigpio.zip
      > unzip pigpio.zip
@@ -148,6 +151,7 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
      > sudo make install
      > ```
   4. > Install the espeak package:
+  
      > ```
      > sudo apt-get install python-espeak
      > ```
