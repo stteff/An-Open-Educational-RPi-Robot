@@ -111,7 +111,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
       > ```
       > sudo reboot
-      > ``` reboot for changes to take effect
+      > ``` 
+      > reboot for changes to take effect
   
 ---
 ## Remote Access Rapsberry Pi's Command Line Interface (CLI)
