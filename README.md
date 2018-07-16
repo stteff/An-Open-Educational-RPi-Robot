@@ -41,7 +41,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-### (Raspberry Pi) Software Requirements: 
+### (Raspberry Pi) Software Prerequisites: 
 
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
