@@ -85,7 +85,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
      > ifconfig
      > ```
-     > At the *wlan0:* part of the command output, the new IP should appear
+     > At the *wlan0:* part of the command output, the new IP should appear:
+     >
      > ![Step 9](/docs/images/7.png)
   10. > Set a Static IP for the Raspberry Pi [Optional] 
   
