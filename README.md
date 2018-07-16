@@ -94,7 +94,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > - a valid static IP address (at the example below, *192.168.2.200*)
       > - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
       >
-      >
+      
       > At the command line type:
       > ```
       > sudo nano /etc/dhcpcd.conf
@@ -109,7 +109,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > Save changes, exit nano and reboot by typing:
       > <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
       > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
-      >`sudo reboot` reboot for changes to take effect
+      `sudo reboot` reboot for changes to take effect
   
 ---
 ## Remote Access Rapsberry Pi's Command Line Interface (CLI)
