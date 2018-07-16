@@ -66,10 +66,10 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
   7. > Enable remote command line using ssh, in order to allow remote access to the robot:
   
-     7a. > Select *Interfacing Options:*
+    7a. > Select *Interfacing Options:*
      > ![Step 7a](/docs/images/2.png)
      
-     7b. > Select *SSH:*
+    7b. > Select *SSH:*
      > ![Step 7b](/docs/images/3.png)
 
   8. Set WiFi SSID and pass phrase of the network where robot will be connected:
