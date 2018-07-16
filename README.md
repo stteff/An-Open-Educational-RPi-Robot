@@ -6,8 +6,8 @@
   * [Circuit Diagram](#circuit-diagram)
   * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-requirements)
     * [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
-    * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
-* [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
+  * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
+  * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
 * [The Control computer](#the-control-computer-----)
 
 ---
