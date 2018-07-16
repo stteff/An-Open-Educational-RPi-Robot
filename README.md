@@ -156,7 +156,7 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
      > sudo apt-get install python-espeak
      > ```
   
-  ## `The Control Computer:-----`
+## `The Control Computer:-----`
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
   
