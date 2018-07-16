@@ -23,7 +23,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ---
 
 ## `OpEdRo:-----`
-### Main components:
+### Main Components:
 
 <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Photoelectric_sensor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Encoder_disk.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_wheel.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Ball_caster.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Battery_holder.png" width="96">
 
@@ -41,11 +41,11 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-### Raspberry Pi Software: 
+### (Raspberry Pi) Software Requirements: 
 
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
-  * Python 2.7.x
+  * Python 2.7.x (inclluded with OS)
   * Python packages / modules:
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
@@ -90,9 +90,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   10. > Set a Static IP for the Raspberry Pi [Optional] 
   
       > You will need:
-  
       > - a valid static IP address (at the example below, *192.168.2.200*)
-      
       > - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
       
       > At the command line type:
@@ -153,7 +151,7 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
   sudo apt-get install python-espeak
   ```
   
-  ## `The Control computer:-----`
+  ## `The Control Computer:-----`
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
   
