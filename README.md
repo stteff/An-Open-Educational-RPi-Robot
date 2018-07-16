@@ -55,22 +55,22 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ---
 ## Installing and Setting up Raspberry Pi's Operating System
 ---
-  1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
-  2. Unzip the compressed file
-  3. Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
-  4. Connect Raspberry Pi to an internet network using an Ethernet cable and boot
-  5. Log in as *pi* user
-  6. Invoke the configuration utility *raspi-config*, by typing at the command line interface:
-     ```
-     sudo raspi-config
-     ```
-  7. Enable remote command line using ssh, in order to allow remote access to the robot:
+  1. > Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
+  2. > Unzip the compressed file
+  3. > Use the [Etcher](https://etcher.io/) SD card utility (or a similar one) to transfer the Raspbian to the SD card
+  4. > Connect Raspberry Pi to an internet network using an Ethernet cable and boot
+  5. > Log in as *pi* user
+  6. > Invoke the configuration utility *raspi-config*, by typing at the command line interface:
+     > ```
+     > sudo raspi-config
+     > ```
+  7. > Enable remote command line using ssh, in order to allow remote access to the robot:
   
-     7a. Select *Interfacing Options:*
-     ![Step 7a](/docs/images/2.png)
+     > 7a. Select *Interfacing Options:*
+     > ![Step 7a](/docs/images/2.png)
      
-     7b. Select *SSH:*
-     ![Step 7b](/docs/images/3.png)
+     > 7b. Select *SSH:*
+     > ![Step 7b](/docs/images/3.png)
 
   8. Set WiFi SSID and pass phrase of the network where robot will be connected:
   
