@@ -2,7 +2,7 @@
 
 * [What is OpEdRo](#opedro-an-open-educational-rpi-robot)
 * [OpEdRo](#opedro-----)
-  * [List of main components](#list-of-main-components)
+  * [Main components](#main-components)
   * [Circuit Diagram](#circuit-diagram)
   * [Raspberry Pi Software](#raspberry-pi-software)
 * [The Control computer](#the-control-computer-----)
@@ -23,7 +23,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ---
 
 ## `OpEdRo:-----`
-### List of main components:
+### Main components:
 
 <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Photoelectric_sensor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Encoder_disk.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_wheel.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Ball_caster.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Battery_holder.png" width="96">
 
