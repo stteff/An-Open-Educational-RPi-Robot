@@ -80,6 +80,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > 8b. Select *Wi-fi:*
      > ![Step 8b](/docs/images/6.png)
   9. > Check the wlan (wireless lan) IP assigned.
+     >
      > Exit raspi-config and type:
      > ```
      > ifconfig
@@ -90,7 +91,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   
       > You will need:
       > - a valid static IP address (at the example below, *192.168.2.200*)
-      > - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)   
+      > - the router's and domain_name_servers' IP addresses (usually same IP for both, at the example below *192.168.2.1*)
+      >
       > At the command line type:
       > ```
       > sudo nano /etc/dhcpcd.conf
