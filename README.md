@@ -12,8 +12,7 @@
 
 ---
 
-# [OpEdRo]
-# An-Open-Educational-(RPi)-Robot
+# [OpEdRo] An-Open-Educational-(RPi)-Robot
 
 An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Remotely programmable from Scratch to move specific distances, to turn certain angles, to speak text and variable values.
 
@@ -23,8 +22,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 
 ---
 
-### `OpEdRo:-----`
-#### List of main components:
+## `OpEdRo:-----`
+### List of main components:
 
 <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Photoelectric_sensor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Encoder_disk.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_wheel.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Ball_caster.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Battery_holder.png" width="96">
 
@@ -39,10 +38,10 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   * 1 power bank for Raspberry Pi
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
-#### Circuit Diagram
+### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-#### Raspberry Pi Software: 
+### Raspberry Pi Software: 
 
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
@@ -53,10 +52,6 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
     * [scratchpy](https://github.com/pilliq/scratchpy) (a python client for Scratch)
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
-### `The Control computer:-----`
-  * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
-  * Connected to the same LAN as Raspberry Pi
-
 ---
 ## Installing and Setting up Raspberry Pi's Operating System
 ---
@@ -158,4 +153,8 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
   ```
   sudo apt-get install python-espeak
   ```
+  
+  ## `The Control computer:-----`
+  * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
+  * Connected to the same LAN as Raspberry Pi
   
