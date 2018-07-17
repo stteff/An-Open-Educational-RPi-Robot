@@ -8,7 +8,7 @@
     * [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
   * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
   * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
-* [The Control computer](#the-control-computer-----)
+* [The Control Computer](#the-control-computer-----)
 
 ---
 
@@ -160,3 +160,6 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
   
+
+## License
+![License](/docs/images/gplv3-127x51.png)
