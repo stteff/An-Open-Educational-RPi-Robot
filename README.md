@@ -162,4 +162,4 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
   
 
 ## License
-[![License](/docs/images/gplv3-127x51.png)](https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/LICENSE)
+[![License](/docs/images/gplv3-127x51.png)](/LICENSE)
