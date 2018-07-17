@@ -9,6 +9,7 @@
   * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
   * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
 * [The Control Computer](#the-control-computer-----)
+* [License](#license)
 
 ---
 
