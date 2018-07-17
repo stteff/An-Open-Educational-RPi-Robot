@@ -163,4 +163,4 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
   
 
 ## License
-[![License](/docs/images/gplv3-127x51.png)](/LICENSE)
+[![License](/docs/images/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.txt)
