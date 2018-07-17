@@ -28,8 +28,6 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 
 ![chassis](/docs/images/Robot_chassis96.png) ![servo motor](/docs/images/Servo_motor96.png) ![photoelectric](/docs/images/Photoelectric_sensor96.png) ![Encoder disk](/docs/images/Encoder_disk96.png) ![servo wheel](/docs/images/Servo_wheel96.png) ![ball caster](/docs/images/Ball_caster96.png) ![Battery holder](/docs/images/Battery_holder96.png)
 
-<img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Robot_chassis.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_motor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Photoelectric_sensor.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Encoder_disk.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Servo_wheel.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Ball_caster.png" width="96"> <img src="https://github.com/stteff/An-Open-Educational-RPi-Robot/blob/master/docs/images/Battery_holder.png" width="96">
-
   * A robot chassis appropriate to host the following parts
   * A Rapsberry Pi 3 model B
   * 2 continuous rotation micro servo motors, fitable to robot chassis
