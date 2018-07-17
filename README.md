@@ -108,8 +108,12 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > static domain_name_servers=192.168.2.1
       > ```
       > Save changes, exit nano and reboot by typing:
-      > <kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file
-      > <kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor
+      
+<p>
+    <kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file
+</p>
+
+      > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
       >
       > `sudo reboot` for changes to take effect 
       
