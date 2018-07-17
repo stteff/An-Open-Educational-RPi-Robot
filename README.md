@@ -54,7 +54,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
 ---
-#### Installing and Setting up Raspberry Pi's Operating System
+### Installing and Setting up Raspberry Pi's Operating System
 ---
   1. > Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) image file
   2. > Unzip the compressed file
