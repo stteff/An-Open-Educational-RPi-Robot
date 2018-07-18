@@ -4,7 +4,7 @@
 * [OpEdRo](#opedro-----)
   * [Main components](#main-components)
   * [Circuit Diagram](#circuit-diagram)
-  * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-prerequisites)
+  * [(Raspberry Pi) Software Prerequisite](#raspberry-pi-software-prerequisite)
     * [Step 1: Installing and Setting up Raspberry Pi's Operating System](#step-1-installing-and-setting-up-raspberry-pis-operating-system)
     * [Step 2: Installing Necessary Python Libraries](#step-2-installing-necessary-python-libraries)
 * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
@@ -42,7 +42,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ### Circuit Diagram
   ![Circuit diagram](/docs/images/Circuit_Snapshot.png)
   
-### (Raspberry Pi) Software Prerequisites: 
+### (Raspberry Pi) Software Prerequisite: 
 
   * Operating system
     * Raspbian Jessie or Stretch Lite (Lite version uses lower computer resources)
