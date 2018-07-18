@@ -5,9 +5,9 @@
   * [Main components](#main-components)
   * [Circuit Diagram](#circuit-diagram)
   * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-prerequisites)
-    * [Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
-  * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
-  * [Installing Necessary Python Libraries](#installing-necessary-python-libraries)
+    * [Step 1: Installing and Setting up Raspberry Pi's Operating System](#installing-and-setting-up-raspberry-pis-operating-system)
+    * [Step 2: Installing Necessary Python Libraries](#installing-necessary-python-libraries)
+* [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
 * [The Control Computer](#the-control-computer-----)
 * [License](#license)
 
@@ -115,15 +115,6 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
       > `sudo reboot` for changes to take effect 
       
 ---
-### Remote Access Rapsberry Pi's Command Line Interface (CLI)
----
-Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
-  * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
-  * If you are on a Unix environment, open a terminal window and type:
-  
-    `ssh pi@192.168.2.200`
-  
----
 ### Installing Necessary Python Libraries
 ---
   1. > Update and upgrade installed packages:
@@ -158,6 +149,15 @@ Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for
      > sudo apt-get install python-espeak
      > ```
   
+---
+### Remote Access Rapsberry Pi's Command Line Interface (CLI)
+---
+Since the IP addresss of the Raspberry Pi is known (assuming ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
+  * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
+  * If you are on a Unix environment, open a terminal window and type:
+  
+    `ssh pi@192.168.2.200`
+
 ## `The Control Computer:-----`
   * Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method)
   * Connected to the same LAN as Raspberry Pi
