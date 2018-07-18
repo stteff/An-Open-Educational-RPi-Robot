@@ -1,7 +1,6 @@
 # Table of Contents
 
 * [What is OpEdRo](#opedro-an-open-educational-rpi-robot)
-* [OpEdRo](#opedro-----)
 * [Main Components](#main-components)
 * [Circuit Diagram](#circuit-diagram)
 * [(Raspberry Pi) Software Prerequisites](#raspberry-pi-software-prerequisites)
