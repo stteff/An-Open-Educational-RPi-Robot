@@ -151,7 +151,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ---
 ### Remote Access Rapsberry Pi's Command Line Interface (CLI)
 ---
-Knowing the IP addresss of the Raspberry Pi, from Step 1 [9. & 10.] above (assume that is ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
+Knowing the IP address of the Raspberry Pi, from Step 1 [9. & 10.] above (assume that is ~192.168.2.200~ for demonstration purposes), one could connect to its CLI from another computer of the same network
   * If you are on a Windows environment, you will firstly need to install an *ssh terminal client* program (e.g. [PuTTY](https://www.putty.org/)) and configure it to connect to ~192.168.2.200~
   * If you are on a Unix environment, open a terminal window and type:
   
