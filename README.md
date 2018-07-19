@@ -161,8 +161,9 @@ Knowing the IP address of the Raspberry Pi, from Step 1 [9. & 10.] above (assume
 Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https://en.scratch-wiki.info/wiki/Mesh) method), connected to the same LAN as Raspberry Pi, could become the robot control center:
 
   1. > [Download Scratch 1.4](https://scratch.mit.edu/scratch_1.4/)
-  2. > After opening the application, follow the [instructions](https://en.scratch-wiki.info/wiki/Mesh#Mesh_by_Modification_of_Scratch) for modifying Scratch to enable **Mesh** 
-       or if you are on Windows environment, replace your *Scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
+  2. > After opening the application, follow the [instructions](https://en.scratch-wiki.info/wiki/Mesh#Mesh_by_Modification_of_Scratch) for modifying Scratch to enable **Mesh**
+  
+    > or if you are on Windows environment, replace your *Scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
   
 
 ## License
