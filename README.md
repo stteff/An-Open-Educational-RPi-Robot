@@ -165,7 +165,7 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
        
         or
      
-     > if you are on Windows environment, replace your *Scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
+     > if you are on Windows environment, replace your *scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
   
 
 ## License
