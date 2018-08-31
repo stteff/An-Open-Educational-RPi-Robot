@@ -25,7 +25,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ## `OpEdRo:-----`
 ### Main Components:
 
-![chassis](/docs/images/Robot_chassis96.png) ![servo motor](/docs/images/Servo_motor96.png) ![photoelectric](/docs/images/Photoelectric_sensor96.png) ![Encoder disk](/docs/images/Encoder_disk96.png) ![servo wheel](/docs/images/Servo_wheel96.png) ![ball caster](/docs/images/Ball_caster96.png) ![Battery holder](/docs/images/Battery_holder96.png)
+![chassis](/docs/images/Robot_chassis96.png) ![Raspberry Pi 3](/docs/images/Raspberry-Pi-3.png) ![servo motor](/docs/images/Servo_motor96.png) ![photoelectric](/docs/images/Photoelectric_sensor96.png) ![Encoder disk](/docs/images/Encoder_disk96.png) ![servo wheel](/docs/images/Servo_wheel96.png) ![digital thermometer](/docs/images/DS18B20.png) ![ultrasonic sensor](/docs/images/HC-SR04.png) ![ball caster](/docs/images/Ball_caster96.png) ![Battery holder](/docs/images/Battery_holder96.png)
 
   * A robot chassis appropriate to host the following parts
   * A Rapsberry Pi 3 model B
@@ -33,6 +33,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   * 2 photoelectric sensors
   * 2 encoder disks
   * 2 servo mount wheels
+  * 1 digital thermometer (DS18B20)
+  * 1 ultrasonic distance sensor (HC-SR04)
   * 1 ball caster
   * 1 battery holder for 4xAA to power the servos
   * 1 power bank for Raspberry Pi
