@@ -41,7 +41,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   * 1 small portable speaker with 3.5 mm jack (for the speech engine)
   
 ### Circuit Diagram
-  ![Circuit diagram](/docs/images/car_1.png)
+  ![Circuit diagram](/docs/images/Circuit_Snapshot_1.png)
   
 ### (Raspberry Pi) Software Prerequisites: 
 
