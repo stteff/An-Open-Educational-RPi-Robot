@@ -23,6 +23,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
 ---
 
 ## `OpEdRo:-----`
+  ![Circuit diagram](/docs/images/car_1.png)
 ### Main Components:
 
 ![chassis](/docs/images/Robot_chassis96.png) ![Raspberry Pi 3](/docs/images/Raspberry-Pi-3.png) ![servo motor](/docs/images/Servo_motor96.png) ![photoelectric](/docs/images/Photoelectric_sensor96.png) ![Encoder disk](/docs/images/Encoder_disk96.png) ![servo wheel](/docs/images/Servo_wheel96.png) ![digital thermometer](/docs/images/DS18B20.png) ![ultrasonic sensor](/docs/images/HC-SR04.png) ![ball caster](/docs/images/Ball_caster96.png) ![Battery holder](/docs/images/Battery_holder96.png)
