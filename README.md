@@ -153,7 +153,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
      > sudo apt-get install python-espeak
      > ```
- 5. > Setting the DS18B20 thermometer:
+  5. > Setting the DS18B20 thermometer:
      
      > 5a. Install the w1thermsensor package:
      > ```
@@ -163,19 +163,19 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > 5b. Allow hardware initialisation for the sensor.
            At the command line type:
       
-      > ```
-      > sudo nano /boot/config.txt
-      > ```
-      > Go to the end of the file and type:
-      > ```
-      > dtoverlay=w1-gpio
-      > ```
-      > Save changes, exit nano and reboot by typing:
-      >
-      > <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
-      > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
-      >
-      > `sudo reboot` for changes to take effect
+     > ```
+     > sudo nano /boot/config.txt
+     > ```
+     > Go to the end of the file and type:
+     > ```
+     > dtoverlay=w1-gpio
+     > ```
+     > Save changes, exit nano and reboot by typing:
+     >
+     > <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
+     > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
+     >
+     > `sudo reboot` for changes to take effect
   
 ---
 ### Remote Access Rapsberry Pi's Command Line Interface (CLI)
@@ -196,7 +196,7 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
      
      > if you are on Windows environment, replace your *scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
   
-## `Scratch Projects:-----`
+## `Scratch Project:-----`
 Examples -
 
 ## License
