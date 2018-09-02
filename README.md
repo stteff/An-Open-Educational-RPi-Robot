@@ -152,6 +152,11 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
      > sudo apt-get install python-espeak
      > ```
+ 5. > Install the w1thermsensor package:
+  
+     > ```
+     > sudo apt-get install python-w1thermsensor
+     > ```
   
 ---
 ### Remote Access Rapsberry Pi's Command Line Interface (CLI)
