@@ -53,7 +53,8 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   * Python packages / modules:
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
-    * [scratchpy](https://github.com/pilliq/scratchpy) (a python client for Scratch)
+    * [w1thermsensor](https://github.com/timofurrer/w1thermsensor "Python package for the DS18S20 sensor") (a library for the DS18S20 temperature sensor)
+    * [scratchpy](https://github.com/pilliq/scratchpy "Python interface to Scratch") (a python client for Scratch)
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
   
 ---
