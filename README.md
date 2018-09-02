@@ -201,6 +201,8 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
 Press on one of the images below to download the whole Scratch project
 (there will be an english version soon..)
 
+The four images correspond to the four sprites of the file *OpEdRo_Examples.sb*
+
 [![scratch examples](/docs/images/robot_settings_1.png)](/docs/OpEdRo_Examples.sb)
 [![scratch examples](/docs/images/course.png)](/docs/OpEdRo_Examples.sb)
 [![scratch examples](/docs/images/keyboard_control.png)](/docs/OpEdRo_Examples.sb)
