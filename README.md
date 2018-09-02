@@ -153,10 +153,27 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > sudo apt-get install python-espeak
      > ```
  5. > Install the w1thermsensor package:
-  
+     
+     > 5a. Install the w1thermsensor package:
      > ```
      > sudo apt-get install python-w1thermsensor
      > ```
+     
+     > 5b. Allow hardware initialisation for the DS18B20 sensor:*
+      > At the command line type:
+      > ```
+      > sudo nano /boot/config.txt
+      > ```
+      > Go to the end of the file and type:
+      > ```
+      > dtoverlay=w1-gpio
+      > ```
+      > Save changes, exit nano and reboot by typing:
+      >
+      > <p><kbd>Ctrl</kbd> + <kbd>O</kbd>  to confirm write to the file</p>
+      > <p><kbd>Ctrl</kbd> + <kbd>X</kbd>  to exit the nano editor</p>
+      >
+      > `sudo reboot` for changes to take effect
   
 ---
 ### Remote Access Rapsberry Pi's Command Line Interface (CLI)
