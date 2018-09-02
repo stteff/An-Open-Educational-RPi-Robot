@@ -197,7 +197,7 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
      > if you are on Windows environment, replace your *scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
   3. > If **Mesh** is not enabled, enable it by pressing <p><kbd>Ctrl</kbd> + <kbd>Share</kbd> from Scratch menu
   
-  ![enabling Mesh](/docs/images/mesh.png)
+     > ![enabling Mesh](/docs/images/mesh.png)
   
 ## `Scratch Project:-----`
 **Examples**: -
