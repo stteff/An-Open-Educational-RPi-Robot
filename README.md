@@ -160,7 +160,7 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
      
      > 5b. Allow hardware initialisation for the DS18B20 sensor.
-     > At the command line type:
+     >     At the command line type:
       
       > ```
       > sudo nano /boot/config.txt
