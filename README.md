@@ -199,6 +199,7 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
 ## `Scratch Project:-----`
 **Examples**: -
 Press on one of the images below to download the whole Scratch project
+(there will be an english version soon..)
 
 [![scratch examples](/docs/images/robot_settings_1.png)](/docs/OpEdRo_Examples.sb)
 [![scratch examples](/docs/images/course.png)](/docs/OpEdRo_Examples.sb)
