@@ -198,6 +198,8 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
   
 ## `Scratch Project:-----`
 Examples -
+> Press on one of the images below to download the single Scratch project
+  [![scratch examples](/docs/images/robot_settings_1.png)](/docs/OpEdRo_Examples)
 
 ## License
-[![License](/docs/images/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.txt)
+[![License](/docs/images/gplv3-127x51.png)](/docs/scratch.image)
