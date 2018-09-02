@@ -53,9 +53,9 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
   * Python packages / modules:
     * [RPi.GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/ "RPi.GPIO Wiki") (a class to control the GPIO on a Raspberry Pi, included with OS)
     * [pigpio](http://abyz.me.uk/rpi/pigpio/index.html "The pigpio Documentation") (a library supporting hardware timed servo pulses)
-    * [w1thermsensor](https://github.com/timofurrer/w1thermsensor "Python package for the DS18B20 sensor") (a library for the DS18B20 temperature sensor)
     * [scratchpy](https://github.com/pilliq/scratchpy "Python interface to Scratch") (a python client for Scratch)
     * [espeak](http://espeak.sourceforge.net/ "espeak Documentation") (a text to speech engine)
+    * [w1thermsensor](https://github.com/timofurrer/w1thermsensor "Python package for the DS18B20 sensor") (a library for the DS18B20 temperature sensor)
   
 ---
 ### Step 1: Installing and Setting up Raspberry Pi's Operating System
