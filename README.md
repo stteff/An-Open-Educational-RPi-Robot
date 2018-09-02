@@ -8,7 +8,7 @@
   * [Step 2: Installing Necessary Python Libraries](#step-2-installing-necessary-python-libraries)
 * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
 * [The Control Computer](#the-control-computer-----)
-* [Scratch Projects](#scratch-projects-----)
+* [Scratch Project](#scratch-project-----)
 * [License](#license)
 
 ---
