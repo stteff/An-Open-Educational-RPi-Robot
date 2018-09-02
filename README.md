@@ -8,6 +8,7 @@
   * [Step 2: Installing Necessary Python Libraries](#step-2-installing-necessary-python-libraries)
 * [Remote Access Rapsberry Pi's Command Line Interface (CLI)](#remote-access-rapsberry-pis-command-line-interface-cli)
 * [The Control Computer](#the-control-computer-----)
+* [Scratch Projects](#scratch-projects-----)
 * [License](#license)
 
 ---
@@ -195,6 +196,8 @@ Any computer capable to run Scratch 1.4 (the version supporting the [Mesh](https
      
      > if you are on Windows environment, replace your *scratch.image* file in the **scratch** directory (Program files folder), with the one having Mesh enabled [Windows only](/docs/scratch.image)
   
+## `Scratch Projects:-----`
+Examples -
 
 ## License
 [![License](/docs/images/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.txt)
