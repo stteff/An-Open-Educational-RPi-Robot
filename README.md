@@ -159,8 +159,9 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > sudo apt-get install python-w1thermsensor
      > ```
      
-     > 5b. Allow hardware initialisation for the DS18B20 sensor:*
+     > 5b. Allow hardware initialisation for the DS18B20 sensor:
       > At the command line type:
+      
       > ```
       > sudo nano /boot/config.txt
       > ```
