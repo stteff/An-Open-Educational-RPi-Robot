@@ -152,15 +152,15 @@ An Educational Robotic Platform, Raspberry Pi based, using Open Technologies. Re
      > ```
      > sudo apt-get install python-espeak
      > ```
- 5. > Install the w1thermsensor package:
+ 5. > Setting the DS18B20 thermometer:
      
      > 5a. Install the w1thermsensor package:
      > ```
      > sudo apt-get install python-w1thermsensor
      > ```
      
-     > 5b. Allow hardware initialisation for the DS18B20 sensor.
-         > At the command line type:
+     > 5b. Allow hardware initialisation for the sensor.
+           At the command line type:
       
       > ```
       > sudo nano /boot/config.txt
