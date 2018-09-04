@@ -211,5 +211,9 @@ The four images correspond to the four sprites of the file *OpEdRo_Examples.sb*
 [![scratch examples](/docs/images/keyboard_control.png)](/docs/OpEdRo_Examples.sb)
 [![scratch examples](/docs/images/temperature_obstacle.png)](/docs/OpEdRo_Examples.sb)
 
-## License
+## Licenses
+Software License:
 [![License](/docs/images/gplv3-127x51.png)](/docs/scratch.image)
+
+Non Software material License:
+[![non Software License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
