@@ -214,7 +214,7 @@ The four images correspond to the four sprites of the file *OpEdRo_Examples.sb*
 ## Licenses
 Software License:
 
-[![License](/docs/images/gplv3-127x51.png)](/docs/scratch.image)
+[![License](/docs/images/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 Non Software material License:
 
